@@ -6,6 +6,12 @@ I build repeatable infrastructure and delivery workflows that teams can understa
 
 **I'm seeking Senior DevOps and Platform Engineering opportunities.**
 
+## Featured case study
+
+### [Onboarding a second application team to an Azure foundation](https://github.com/baileynyx/azure-platform-foundation/blob/main/docs/second-team-case-study.md)
+
+A design exercise exploring Terraform state boundaries, team ownership, controlled connectivity and recovery. Grounded in the Azure lab's five passing mock tests, with the proposed production changes and remaining acceptance gates clearly identified.
+
 ## Engineering experience
 
 - Designed, wrote, and implemented infrastructure automation with Terraform.
