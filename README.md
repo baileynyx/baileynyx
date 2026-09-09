@@ -10,7 +10,9 @@ I build repeatable infrastructure and delivery workflows that teams can understa
 
 ### [Onboarding a second application team to an Azure foundation](https://github.com/baileynyx/azure-platform-foundation/blob/main/docs/second-team-case-study.md)
 
-A design exercise exploring Terraform state boundaries, team ownership, controlled connectivity and recovery. Grounded in the Azure lab's five passing mock tests, with the proposed production changes and remaining acceptance gates clearly identified.
+Implemented optional second-team networking and owner tags with 17 passing Terraform mock tests. The case study explains compatibility decisions and the separate state, access controls and live validation still needed for production.
+
+**[Run the five-minute technical demo](https://github.com/baileynyx/azure-platform-foundation/blob/main/DEMO.md)** — architecture, exact commands, expected results and linked CI evidence. No Azure subscription is required.
 
 ## Engineering experience
 
