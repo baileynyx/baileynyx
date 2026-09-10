@@ -6,13 +6,17 @@ I build repeatable infrastructure and delivery workflows that teams can understa
 
 **I'm seeking Senior DevOps and Platform Engineering opportunities.**
 
-## Featured case study
+## Start here
 
-### [Onboarding a second application team to an Azure foundation](https://github.com/baileynyx/azure-platform-foundation/blob/main/docs/second-team-case-study.md)
+Three independent engineering demonstrations using synthetic data and local or mocked infrastructure. Each project includes runnable instructions, validation evidence and clearly stated production limits.
 
-Implemented optional second-team networking and owner tags with 17 passing Terraform mock tests. The case study explains compatibility decisions and the separate state, access controls and live validation still needed for production.
+| Project | What it demonstrates | Walkthrough |
+| --- | --- | --- |
+| [Azure platform foundation](https://github.com/baileynyx/azure-platform-foundation) | Optional second-team networking, owner tags and compatibility checks, backed by **17 Terraform mock tests**. | [Five-minute demo](https://github.com/baileynyx/azure-platform-foundation/blob/main/DEMO.md) · [Engineering case study](https://github.com/baileynyx/azure-platform-foundation/blob/main/docs/second-team-case-study.md) |
+| [GitHub migration readiness](https://github.com/baileynyx/github-migration-readiness) | A six-repository assessment with actionable blockers, unknowns and review findings, backed by **15 tests**. | [Sample assessment](https://github.com/baileynyx/github-migration-readiness/blob/main/docs/sample-assessment.md) · [Generated report](https://github.com/baileynyx/github-migration-readiness/blob/main/examples/migration-assessment/readiness.md) · [Migration runbook](https://github.com/baileynyx/github-migration-readiness/blob/main/docs/migration-runbook.md) |
+| [Secure delivery reference](https://github.com/baileynyx/secure-delivery-reference) | Tampered-package rejection and HTTP-verified recovery after an injected release failure, backed by **13 tests**. | [Five-minute demo](https://github.com/baileynyx/secure-delivery-reference/blob/main/DEMO.md) · [Validation record](https://github.com/baileynyx/secure-delivery-reference/blob/main/VALIDATION.md) |
 
-**[Run the five-minute technical demo](https://github.com/baileynyx/azure-platform-foundation/blob/main/DEMO.md)** — architecture, exact commands, expected results and linked CI evidence. No Azure subscription is required.
+The Azure demo validates configuration without deploying resources. The migration tool assesses supplied inventory without moving repositories. The delivery demo runs disposable loopback services to observe failure and recovery.
 
 ## Engineering experience
 
@@ -21,16 +25,6 @@ Implemented optional second-team networking and owner tags with 17 passing Terra
 - Migrated TFS repositories to GitHub and Azure DevOps.
 - Migrated Azure DevOps and Bitbucket repositories to GitHub.
 - Implemented GitHub Advanced Security and developed agentic solutions in GitHub.
-
-## Selected engineering samples
-
-These independent demonstrations use synthetic data and lab infrastructure. Each repository documents its validation status and production limitations.
-
-| Project | What to review |
-| --- | --- |
-| [Azure platform foundation](https://github.com/baileynyx/azure-platform-foundation) | Modular Terraform, hub-and-spoke networking, explicit traffic boundaries, mock tests, and operating decisions. |
-| [GitHub migration readiness](https://github.com/baileynyx/github-migration-readiness) | An offline assessment CLI that distinguishes migration blockers, human review, and unknown inventory data. |
-| [Secure delivery reference](https://github.com/baileynyx/secure-delivery-reference) | A small service with tested release packaging, checksum verification, promotion and rollback rehearsal, and CI security controls. |
 
 ## How I approach engineering
 
