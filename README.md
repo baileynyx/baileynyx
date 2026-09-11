@@ -6,6 +6,8 @@ I build repeatable infrastructure and delivery workflows that teams can understa
 
 **I'm seeking Senior DevOps and Platform Engineering opportunities.**
 
+[Portfolio](https://www.baileyfitchett.com/) · [Résumé (PDF)](https://www.baileyfitchett.com/assets/bailey-fitchett-resume.pdf)
+
 ## Start here
 
 Three independent engineering demonstrations covering AI-assisted Terraform review, infrastructure change and recovery, migration verification, and secure delivery. Each project links the problem it addresses to runnable examples and validation evidence.
